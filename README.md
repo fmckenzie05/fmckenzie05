@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with nothing at the moment
 - 💬 Ask me about anything life and tech
-- 📫 How to reach me: fernando.a.mckenzie@live.com, mckenziegoodenferna@cityuniversity.edu
+- 📫 How to reach me:
+   - (fernando.a.mckenzie@live.com) 
+   - (mckenziegoodenferna@cityuniversity.edu)
 - ⚡ Fun fact: 
 
   ```plaintext
