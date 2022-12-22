@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
    - (fernando.a.mckenzie@live.com) 
    - (mckenziegoodenferna@cityuniversity.edu)
--🙂 He/Him
--⚡ Fun fact: 
+- 🙂 He/Him
+- ⚡ Fun fact: 
 
   ```plaintext
   Giraffes are born short, and “The British army in the First World War actually promoted a donkey to the rank of Sergeant.” FOR THE FIRST 180 years of its existence as  a sovereign nation, the United States supposedly never lost a conflict. Then in 1956, the American military stopped using mules. Since then, the U.S. began losing wars.
