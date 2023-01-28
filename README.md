@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-**fmckenzie05/fmckenzie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working on culminating a Bachelors in Info Tech summer(2023)
    - [Supply Chain and Transportation Fix](https://github.com/fmckenzie05/Supply-Chain-and-Transportation-Fix)
    - [Meal Generator](https://github.com/fmckenzie05/meal-generator)
