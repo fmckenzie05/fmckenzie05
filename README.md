@@ -16,7 +16,7 @@
 - 💬 Ask me about anything life, tech and cooking
 - 📫 How to reach me:
 -     Employers only:
-         -(fernando.mckenzie@yahoo.com)
+         -fernando.mckenzie@yahoo.com
    - (fernando.a.mckenzie@live.com) 
    - (mckenziegoodenferna@cityuniversity.edu)
 - 🙂 He/Him
