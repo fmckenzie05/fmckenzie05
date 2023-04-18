@@ -15,7 +15,7 @@
 - 🤔 I’m looking to contribute on any project, from: (english-to-spanish/ spanish-to-english).
 - 💬 Ask me about anything life, tech and cooking
 - 📫 How to reach me:
--     Emploers only:
+-     Employers only:
          -(fernando.mckenzie@yahoo.com)
    - (fernando.a.mckenzie@live.com) 
    - (mckenziegoodenferna@cityuniversity.edu)
