@@ -6,7 +6,6 @@
    - [Crypto price tracker](https://github.com/fmckenzie05/crypto_price_ticker)
    - [Tech community](https://www.reddit.com/r/TechHive/)
    - [Youtube(debbugg mysushi)](https://www.youtube.com/channel/UChVU8dfXy91szlgnsgo_SdA)
-   - [Reddit_TechHive](https://www.reddit.com/r/TechHive/)
    - [Tik_Tok](https://www.tiktok.com/@cyber_bum966)
    - [Papers]: The Idea behind this new repos If for me to share my ideas for a new cybercity concept, so practicing critical thinking in the 
    - form of future call for papers, for us to share ideas, to champion standards and norms. 
