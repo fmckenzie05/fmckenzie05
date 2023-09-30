@@ -7,11 +7,11 @@
    - [Tech community](https://www.reddit.com/r/TechHive/)
    - [Youtube(debbugg mysushi)](https://www.youtube.com/channel/UChVU8dfXy91szlgnsgo_SdA)
    - [Tik_Tok](https://www.tiktok.com/@cyber_bum966)
+   - [CTF Community Influencer] Bring it, I got a Team of Crackers and Hackers, specializing in Automation and building Teams
 
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything life, tech, and cooking
 - 📫 How to reach me:
 -     Employers only:
-         -fernando.mckenzie@yahoo.com
-   - (fernando.a.mckenzie@live.com) 
-   - (mckenziegoodenferna@cityunivers
+         - Find Freddy
+
