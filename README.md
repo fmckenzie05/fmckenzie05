@@ -6,7 +6,6 @@
    - [Stock_data_getter](https://github.com/fmckenzie05/stock_getter)
    - [Tech community](https://www.reddit.com/r/TechHive/)
    - [Youtube(debbugg mysushi)](https://www.youtube.com/channel/UChVU8dfXy91szlgnsgo_SdA)
-   - [Tik_Tok](https://www.tiktok.com/@cyber_bum966)
    - [CTF] Object-Cracker and Hackers, specializing in Automation and building Teams
 
 - 👯 I’m looking to collaborate on anything
