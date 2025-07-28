@@ -1,18 +1,48 @@
-### Hi there 👋 I am Freddy
-  👀 I'm interested in Machine Learning, AI, Web, Mobile & Game Development
-- 🔭 I’m currently working on Masters in Computer Science and Saas company while currently seeking employment to further utilize my skills.
--  - [Supply Chain and Transportation Fix](https://github.com/fmckenzie05/Supply-Chain-and-Transportation-Fix)
-   - [Meal Generator](https://github.com/fmckenzie05/meal-generator)
-   - [Stock_data_getter](https://github.com/fmckenzie05/stock_getter)
-   - [Tech community](https://www.reddit.com/r/TechHive/)
-   - [VCW_Tech](https://github.com/Visionary-Code-Works)
-   - [Youtube(debbugg mysushi)](https://www.youtube.com/channel/UChVU8dfXy91szlgnsgo_SdA)
-   - [CTF] Object-Cracker and Hackers, specializing in Automation and building Teams
+# Hi there 👋 I’m SirCodeX (Freddy)
 
-- 👯 I’m looking to collaborate on anything
--  Stack: R, C#, Python, JavaScript, TypeScript, CSS, HTML, Java, React
-- 💬 Ask me about anything life, Technology, Machine Learning, Artificial intelligence, and cooking
-- 📫 How to reach me: Find me at discord.gg/  (link coming soon) <3 come and learn from like-minded Hackers and Hardware Crackers
--     Employers only: I come ready, and willing to learn new technology
-         - Find Freddy
+🎯 IT Professional focused on:
+- **Technical Support | Full Stack Development | Machine Learning Enthusiast**
+- Bridging IT + **Supply Chain Operations** through automation and data
+- Military veteran leveraging discipline + real-world logistics experience
 
+---
+
+## 🔍 What I'm About
+
+👨‍💻 Currently pursuing an M.S. in Computer Science with a deep dive into:
+- 🧠 **Machine Learning for Social Impact** (Disinformation detection + Sentiment analysis)
+- 🏭 **Logistics/Supply Chain Optimization** (ERP, inventory tracking, forecasting)
+- 🌐 **Cloud-Native Solutions on AWS** (Lambda, Glue, S3, SageMaker, QuickSight)
+
+🛠️ Background in IT systems support, scripting, and DevOps automation.  
+💬 I thrive on solving complex problems and building solutions that scale.
+
+---
+
+## 📚 Key Projects
+
+### 🚀 Live Projects
+- **[Supply Chain and Transportation Fix](#)** – dashboard for logistics flow
+- **[Meal Generator](#)** – personalized meal plan system (nutrient + recipe API)
+- **[Stock Data Getter](#)** – auto-scraper + ML-based stock indicator
+- **[VCW_Tech](#)** – Visionary Code Workbench (WIP)
+
+👉 *More repos coming soon from my previous GitHub account — stay tuned!*
+
+---
+
+## 💡 Areas of Interest
+
+- 💻 **Machine Learning, NLP, Disinformation Detection**
+- 📦 **IT Infrastructure, Network Automation**
+- 📈 **Supply Chain Systems, Smart Forecasting**
+- 🧰 **Full Stack Engineering & Dev Tooling**
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Python · JavaScript · TypeScript · R · React · HTML · CSS · Flask · Node.js  
+Git · Bash · Postgres · MongoDB · AWS · Terraform · Docker · Netlify  
+Active Directory · Microsoft Intune · Ticketing Systems · ITSM Tools  
