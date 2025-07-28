@@ -9,7 +9,7 @@
 
 ## 🔍 What I'm About
 
-👨‍💻 Currently pursuing an M.S. in Computer Science with a deep dive into:
+B.S in Information Technology & M.S. in Computer Science with a deep dive into:
 - 🧠 **Machine Learning for Social Impact** (Disinformation detection + Sentiment analysis)
 - 🏭 **Logistics/Supply Chain Optimization** (ERP, inventory tracking, forecasting)
 - 🌐 **Cloud-Native Solutions on AWS** (Lambda, Glue, S3, SageMaker, QuickSight)
