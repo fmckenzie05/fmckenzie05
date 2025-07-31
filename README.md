@@ -1,4 +1,4 @@
-# Hi there 👋 I’m SirCodeX (Freddy)
+# Hi there 👋 I’m Fred
 
 🎯 IT Professional focused on:
 - **Technical Support | Full Stack Development | Machine Learning Enthusiast**
