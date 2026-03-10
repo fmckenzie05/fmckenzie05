@@ -12,7 +12,8 @@ Information Technology professional with B.S. in IT and M.S. in Computer Science
 
 - **Machine Learning Applications** – Disinformation detection and sentiment analysis for social impact
 - **Supply Chain Optimization** – ERP systems, inventory tracking, and demand forecasting
-- **Cloud-Native Solutions** – AWS infrastructure (Lambda, Glue, S3, SageMaker, QuickSight)
+- **Cloud-Native Solutions** – AWS infrastructure (Lambda, Glue, S3, SageMaker, QuickSight) and Microsoft Azure (Entra ID, RBAC, Virtual Networks)
+
 
 Background in enterprise IT systems support, automation scripting, and DevOps practices. Proven track record of delivering scalable solutions for complex business challenges.
 
@@ -24,7 +25,7 @@ Background in enterprise IT systems support, automation scripting, and DevOps pr
 - **Supply Chain and Transportation Dashboard** – Comprehensive logistics flow visualization
 - **Meal Generator System** – Personalized meal planning with nutrient optimization and recipe integration
 - **Stock Data Aggregator** – Automated data collection with ML-based market indicators
-- **VCW_Tech** – Visionary Code Workbench (in development)
+- **Intellusia-Studios** – IT Technology Reseach Lab 
 
 Additional repositories from previous work forthcoming.
 
