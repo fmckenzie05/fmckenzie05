@@ -25,7 +25,8 @@ Background in enterprise IT systems support, automation scripting, and DevOps pr
 - **Supply Chain and Transportation Dashboard** – Comprehensive logistics flow visualization
 - **Meal Generator System** – Personalized meal planning with nutrient optimization and recipe integration
 - **Stock Data Aggregator** – Automated data collection with ML-based market indicators
-- **Intellusia-Studios** – IT Technology Reseach Lab 
+- **Intellusia-Studios** – IT Technology Reseach Lab
+- **MVFN** – Moral Value Foundation Network
 
 Additional repositories from previous work forthcoming.
 
